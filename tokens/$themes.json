@@ -3,98 +3,56 @@
     "id": "67f30ffb604e5139773daf3b6e1efac0c08c5be7",
     "name": "Default Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core / dark": "disabled",
-      "core / light": "disabled",
-      "context / web": "disabled",
-      "semantic / Branded": "disabled",
-      "semantic / Default": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Theme"
   },
   {
     "id": "85d37b57c226db696ca8d48b83e8553455e9d604",
     "name": "Default Light",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core / dark": "disabled",
-      "core / light": "disabled",
-      "context / web": "disabled",
-      "semantic / Branded": "disabled",
-      "semantic / Default": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Theme"
   },
   {
     "id": "3ada1286687e6f13e25d42890c41bd87ca5818f8",
     "name": "Branded Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "semantic / Branded": "disabled",
-      "semantic / Default": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Theme"
   },
   {
     "id": "b23211d3828f7d18f5e0369c38b581f20a3229b8",
     "name": "Branded Light",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "semantic / Branded": "disabled",
-      "semantic / Default": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Theme"
   },
   {
     "id": "387112190420a48ea77036116f4c677d13bc62c1",
     "name": "Web",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core / dark": "disabled",
-      "core / light": "disabled",
-      "context / web": "disabled",
-      "semantic / Branded": "disabled",
-      "semantic / Default": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Platform"
   },
   {
     "id": "4f7d7773e42e2b8b80e3e04cadd3007ae4f8c8ea",
     "name": "Desktop",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core / dark": "disabled",
-      "core / light": "disabled",
-      "context / web": "disabled",
-      "semantic / Branded": "disabled",
-      "semantic / Default": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Platform"
   },
   {
     "id": "c43a23c1622979a10dbb59ecac0612680694909a",
     "name": "Android",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core / dark": "disabled",
-      "core / light": "disabled",
-      "context / web": "disabled",
-      "semantic / Branded": "disabled",
-      "semantic / Default": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Platform"
   },
   {
     "id": "991d76aa7ef14ec47e9af507e72bf4c3281fe656",
     "name": "iOS",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core / dark": "disabled",
-      "core / light": "disabled",
-      "context / web": "disabled",
-      "semantic / Branded": "disabled",
-      "semantic / Default": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Platform"
   }
 ]
