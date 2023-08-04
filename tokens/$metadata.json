@@ -4,6 +4,6 @@
     "core / dark",
     "semantic / Default",
     "semantic / Branded",
-    "context / web"
+    "context"
   ]
 }

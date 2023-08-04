@@ -578,7 +578,7 @@
         },
         "accent": {
           "default": {
-            "value": "{semantic.system.accent}.original.12",
+            "value": "{semantic.system.accent}.original.14",
             "type": "color"
           },
           "hover": {
@@ -806,7 +806,7 @@
         },
         "tradingNegative": {
           "default": {
-            "value": "{semantic.system.neutral}.muted.6",
+            "value": "{semantic.trading.negative}.original.12",
             "type": "color"
           },
           "hover": {
@@ -848,7 +848,7 @@
       "common": {
         "primary": {
           "default": {
-            "value": "{semantic.system.neutral}.muted.6",
+            "value": "{semantic.system.neutral}.muted.24",
             "type": "color"
           },
           "hover": {
@@ -886,7 +886,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{semantic.system.neutral}.muted.6",
+            "value": "{semantic.system.neutral}.muted.18",
             "type": "color"
           },
           "hover": {
@@ -962,7 +962,7 @@
         },
         "onEmphasis": {
           "default": {
-            "value": "{semantic.system.neutral}.muted.6",
+            "value": "{achromatic.muted.white}",
             "type": "color"
           },
           "hover": {

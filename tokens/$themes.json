@@ -6,7 +6,7 @@
     "selectedTokenSets": {
       "core / dark": "source",
       "semantic / Default": "source",
-      "context / web": "enabled"
+      "context": "enabled"
     },
     "group": "Theme"
   },
@@ -17,7 +17,7 @@
     "selectedTokenSets": {
       "core / light": "source",
       "semantic / Default": "source",
-      "context / web": "enabled"
+      "context": "enabled"
     },
     "group": "Theme"
   },
@@ -28,7 +28,7 @@
     "selectedTokenSets": {
       "core / dark": "source",
       "semantic / Branded": "source",
-      "context / web": "enabled"
+      "context": "enabled"
     },
     "group": "Theme"
   },
@@ -39,7 +39,7 @@
     "selectedTokenSets": {
       "semantic / Branded": "source",
       "core / light": "source",
-      "context / web": "enabled"
+      "context": "enabled"
     },
     "group": "Theme"
   }
