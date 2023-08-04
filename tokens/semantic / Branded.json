@@ -1,0 +1,134 @@
+{
+  "semantic": {
+    "system": {
+      "neutral": {
+        "value": "$brand2",
+        "type": "color"
+      },
+      "accent": {
+        "value": "$brand1",
+        "type": "color"
+      },
+      "success": {
+        "value": "$green",
+        "type": "color"
+      },
+      "warning": {
+        "value": "$orange",
+        "type": "color"
+      },
+      "error": {
+        "value": "$red",
+        "type": "color"
+      },
+      "danger": {
+        "value": "$red",
+        "type": "color"
+      },
+      "help": {
+        "value": "$brand2",
+        "type": "color"
+      },
+      "focus": {
+        "value": "$blue",
+        "type": "color"
+      }
+    },
+    "trading": {
+      "profit": {
+        "value": "$green",
+        "type": "color"
+      },
+      "equal": {
+        "value": "$brand2",
+        "type": "color"
+      },
+      "loss": {
+        "value": "$red",
+        "type": "color"
+      },
+      "positive": {
+        "value": "$green",
+        "type": "color"
+      },
+      "negative": {
+        "value": "$red",
+        "type": "color"
+      }
+    },
+    "account": {
+      "practice": {
+        "value": "$orange",
+        "type": "color"
+      },
+      "real": {
+        "value": "$green",
+        "type": "color"
+      },
+      "tournament": {
+        "value": "$indigo",
+        "type": "color"
+      }
+    },
+    "profile": {
+      "basic": {
+        "value": "$purple",
+        "type": "color"
+      },
+      "vip": {
+        "value": "$yellow",
+        "type": "color"
+      },
+      "pro": {
+        "value": "$purple",
+        "type": "color"
+      },
+      "islamic": {
+        "value": "$emerald",
+        "type": "color"
+      }
+    },
+    "support": {
+      "1": {
+        "value": "$fuchsia",
+        "type": "color"
+      },
+      "2": {
+        "value": "$lime",
+        "type": "color"
+      },
+      "3": {
+        "value": "$red",
+        "type": "color"
+      },
+      "4": {
+        "value": "$green",
+        "type": "color"
+      },
+      "5": {
+        "value": "$cyan",
+        "type": "color"
+      },
+      "6": {
+        "value": "$teal",
+        "type": "color"
+      },
+      "7": {
+        "value": "$magenta",
+        "type": "color"
+      },
+      "8": {
+        "value": "$turquoise",
+        "type": "color"
+      },
+      "9": {
+        "value": "$amber",
+        "type": "color"
+      },
+      "10": {
+        "value": "$pink",
+        "type": "color"
+      }
+    }
+  }
+}

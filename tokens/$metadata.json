@@ -1,8 +1,9 @@
 {
   "tokenSetOrder": [
-    "Dark",
-    "core",
-    "Light",
-    "context"
+    "core / light",
+    "core / dark",
+    "semantic / Default",
+    "semantic / Branded",
+    "context / web"
   ]
 }
