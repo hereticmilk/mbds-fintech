@@ -4,9 +4,7 @@
     "name": "Default Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core / dark": "source",
-      "semantic / Default": "source",
-      "context": "enabled"
+      "IQ Option": "disabled"
     },
     "group": "Theme"
   },
@@ -15,9 +13,7 @@
     "name": "Default Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core / light": "source",
-      "semantic / Default": "source",
-      "context": "enabled"
+      "IQ Option": "disabled"
     },
     "group": "Theme"
   },
@@ -26,9 +22,7 @@
     "name": "Branded Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core / dark": "source",
-      "semantic / Branded": "source",
-      "context": "enabled"
+      "IQ Option": "disabled"
     },
     "group": "Theme"
   },
@@ -37,9 +31,7 @@
     "name": "Branded Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic / Branded": "source",
-      "core / light": "source",
-      "context": "enabled"
+      "IQ Option": "disabled"
     },
     "group": "Theme"
   }
